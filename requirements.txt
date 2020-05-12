@@ -1,5 +1,5 @@
 freetype-py
-imageio
+imageio==2.6.1
 networkx
 numpy
 Pillow
